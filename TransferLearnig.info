@@ -1,0 +1,1 @@
+Transfer Learning is a deep learning technique where a pre-trained model (trained on a large dataset like ImageNet) is reused for a different but related task. Instead of training a model from scratch, you take an existing model and fine-tune it for your specific problem.
